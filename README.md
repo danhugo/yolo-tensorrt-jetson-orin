@@ -1,3 +1,6 @@
+# Instruction to infer YOLO model with TensorRT
+[Notion - Yolov7 tensorRT on Jetson Orin](https://hichehehe.notion.site/Yolov7-tensorrt-on-Jetson-Orin-b8f1c5840ec64a49aed00b10c530abf2?pvs=4)
+
 # YOLO Series TensorRT Python/C++ 
 ## [简体中文](README_CN.md)
 
